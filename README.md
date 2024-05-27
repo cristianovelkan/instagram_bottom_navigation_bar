@@ -1,6 +1,6 @@
 # instagram_bottom_navigation_bar
 
-A new Flutter project.
+Flutter Basic Implementation of Bottom Navigation Bar 
 
 ## Getting Started
 
